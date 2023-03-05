@@ -2,12 +2,12 @@
 
 # slack-ec2-stateChange-Hook
 #ECS Task notifier
-<img src="https://pasteboard.co/uZatQYdKXR4h.jpg" width="200px">
+<img src="https://gcdnb.pbrd.co/images/uZatQYdKXR4h.jpg?o=1" width="200px">
 
 
 EC2 Enable AWS CloudTrail.
 
-<img src="https://pasteboard.co/AZB55CnwuIef.jpg" width="200px">
+<img src="https://pasteboard.co/images/AZB55CnwuIef.jpg?o=1" width="200px">
 
 
 
@@ -27,7 +27,7 @@ make cloudwatch alarm with cpu util
 
 connect and sub to this lambda 
 
-<img src="https://pasteboard.co/7YtJ3Wq3RWL4.jpg" width="200px">
+<img src="https://pasteboard.co/images/7YtJ3Wq3RWL4.jpg?o=1" width="200px">
 
 
 
@@ -40,4 +40,4 @@ S3BucketToSLack - will make you upload a file to AWS first then send it to slack
 webhooks - will send messages to slack without files for example : when user Register 
 or when user Complete onBoarding or change settings to his account 
 
-<img src="https://pasteboard.co/UGqceLG1SiML.jpg" width="200px">
+<img src="https://pasteboard.co/images/UGqceLG1SiML.jpg?o=1" width="200px">
