@@ -2,7 +2,7 @@
 
 # slack-ec2-stateChange-Hook
 #ECS Task notifier
-<img src="https://gcdnb.pbrd.co/images/uZatQYdKXR4h.jpg?o=1" width="200px">
+<img src="https://gcdnb.pbrd.co/images/uZatQYdKXR4h.jpg?o=1" width="400px">
 
 
 EC2 Enable AWS CloudTrail.
